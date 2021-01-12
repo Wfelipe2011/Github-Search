@@ -19,7 +19,7 @@ function App() {
     setSearch(event.target.value)
   }
 
-  const htpps = 'https://'
+  
 
   return (
     <div className="container text-center">
