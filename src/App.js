@@ -44,14 +44,14 @@ function App() {
        ( 
           <img src={GithubImage} 
           className="responsive rounded-circle" 
-          all=""
+          all="GitHub"
           height="200px" /> 
         )}
         {userData && (
           <div>
           <img src={userData.avatar_url} 
             className="responsive rounded-circle" 
-            all=""
+            all="Foto Usuario"
             height="200px" /> 
           <h1 className="pt-4">
             <a href={userData.html_url} target="new">
