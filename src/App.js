@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import GithubImage from './github.png'
+import GithubImage from './github.png';
 import { useState } from 'react';
 
 function App() {
